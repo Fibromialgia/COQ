@@ -1,2 +1,2 @@
 # COQ
-Trash bin for proyects
+Trash bin for projects
