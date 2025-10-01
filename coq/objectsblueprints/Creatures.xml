@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<objects>
+  <object Name="C_ChormeSexser" Inherits="Snapjaw">
+    <part Name="Description" Short="A Big fat snapjaw holds a smelly old book in his hand...He seems like he's about to cast something." />
+    <part Name="Render" DisplayName="snapjaw mage" Tile="Assets_Content_Textures_Creatures_sw_snapjaw_warrior.bmp" ColorString="&amp;O" DetailColor="Y" />
+  </object>
+</objects>
