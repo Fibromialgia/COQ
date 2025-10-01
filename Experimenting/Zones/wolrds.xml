@@ -1,0 +1,3 @@
+<worlds>
+	<world Name="JoppaWorld" Load="Merge">
+  <cell> Name="AncientArena_LostTemple"
