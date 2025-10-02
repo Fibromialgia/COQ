@@ -1,86 +1,273 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Map Width="80" Height="25">
-  <cell X="0" Y="0"></cell>
-  <cell X="1" Y="0"></cell>
-  <cell X="2" Y="0"></cell>
-  <cell X="3" Y="0"></cell>
-  <cell X="4" Y="0"></cell>
-  <cell X="5" Y="0"></cell>
-  <cell X="6" Y="0"></cell>
-  <cell X="7" Y="0"></cell>
-  <cell X="8" Y="0"></cell>
-  <cell X="9" Y="0"></cell>
-  <cell X="10" Y="0"></cell>
-  <cell X="11" Y="0"></cell>
-  <cell X="12" Y="0"></cell>
-  <cell X="13" Y="0"></cell>
-  <cell X="14" Y="0"></cell>
-  <cell X="15" Y="0"></cell>
-  <cell X="16" Y="0"></cell>
-  <cell X="17" Y="0"></cell>
-  <cell X="18" Y="0"></cell>
-  <cell X="19" Y="0"></cell>
-  <cell X="20" Y="0"></cell>
-  <cell X="21" Y="0"></cell>
-  <cell X="22" Y="0"></cell>
-  <cell X="23" Y="0"></cell>
-  <cell X="24" Y="0"></cell>
-  <cell X="25" Y="0"></cell>
-  <cell X="26" Y="0"></cell>
-  <cell X="27" Y="0"></cell>
-  <cell X="28" Y="0"></cell>
-  <cell X="29" Y="0"></cell>
-  <cell X="30" Y="0"></cell>
-  <cell X="31" Y="0"></cell>
-  <cell X="32" Y="0"></cell>
-  <cell X="33" Y="0"></cell>
-  <cell X="34" Y="0"></cell>
-  <cell X="35" Y="0"></cell>
-  <cell X="36" Y="0"></cell>
-  <cell X="37" Y="0"></cell>
-  <cell X="38" Y="0"></cell>
-  <cell X="39" Y="0"></cell>
-  <cell X="40" Y="0"></cell>
-  <cell X="41" Y="0"></cell>
-  <cell X="42" Y="0"></cell>
-  <cell X="43" Y="0"></cell>
-  <cell X="44" Y="0"></cell>
-  <cell X="45" Y="0"></cell>
-  <cell X="46" Y="0"></cell>
-  <cell X="47" Y="0"></cell>
-  <cell X="48" Y="0"></cell>
-  <cell X="49" Y="0"></cell>
-  <cell X="50" Y="0"></cell>
-  <cell X="51" Y="0"></cell>
-  <cell X="52" Y="0"></cell>
-  <cell X="53" Y="0"></cell>
-  <cell X="54" Y="0"></cell>
-  <cell X="55" Y="0"></cell>
-  <cell X="56" Y="0"></cell>
-  <cell X="57" Y="0"></cell>
-  <cell X="58" Y="0"></cell>
-  <cell X="59" Y="0"></cell>
-  <cell X="60" Y="0"></cell>
-  <cell X="61" Y="0"></cell>
-  <cell X="62" Y="0"></cell>
-  <cell X="63" Y="0"></cell>
-  <cell X="64" Y="0"></cell>
-  <cell X="65" Y="0"></cell>
-  <cell X="66" Y="0"></cell>
-  <cell X="67" Y="0"></cell>
-  <cell X="68" Y="0"></cell>
-  <cell X="69" Y="0"></cell>
-  <cell X="70" Y="0"></cell>
-  <cell X="71" Y="0"></cell>
-  <cell X="72" Y="0"></cell>
-  <cell X="73" Y="0"></cell>
-  <cell X="74" Y="0"></cell>
-  <cell X="75" Y="0"></cell>
-  <cell X="76" Y="0"></cell>
-  <cell X="77" Y="0"></cell>
-  <cell X="78" Y="0"></cell>
-  <cell X="79" Y="0"></cell>
-  <cell X="0" Y="1"></cell>
+  <cell X="0" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="1" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="2" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="3" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="4" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="5" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="6" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="7" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="8" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="9" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="10" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="11" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="12" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="13" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="14" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="15" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="16" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="17" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="18" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="19" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="20" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="21" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="22" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="23" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="24" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="25" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="26" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="27" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="28" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="29" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="30" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="31" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="32" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="33" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="34" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="35" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="36" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="37" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="38" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="39" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="40" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="41" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="42" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="43" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="44" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="45" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="46" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="47" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="48" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="49" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="50" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="51" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="52" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="53" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="54" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="55" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="56" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="57" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="58" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="59" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="60" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="61" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="62" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="63" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="64" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="65" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="66" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="67" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="68" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="69" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="70" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="71" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="72" Y="0">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="73" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="74" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="75" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="76" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="77" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="78" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="79" Y="0">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="0" Y="1">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="1" Y="1">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
@@ -323,8 +510,13 @@
   <cell X="78" Y="1">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
-  <cell X="79" Y="1"></cell>
-  <cell X="0" Y="2"></cell>
+  <cell X="79" Y="1">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="0" Y="2">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="1" Y="2">
     <object Name="CrysteelPlatedWall"></object>
     <object Name="Floor"></object>
@@ -405,6 +597,7 @@
   </cell>
   <cell X="24" Y="2">
     <object Name="Floor"></object>
+    <object Name="Torchpost"></object>
   </cell>
   <cell X="25" Y="2">
     <object Name="Floor"></object>
@@ -412,19 +605,24 @@
   </cell>
   <cell X="26" Y="2">
     <object Name="WoodFloor"></object>
+    <object Name="Alchemist Table"></object>
   </cell>
   <cell X="27" Y="2">
     <object Name="WoodFloor"></object>
     <object Name="WoodFloor"></object>
+    <object Name="Metal Table"></object>
   </cell>
   <cell X="28" Y="2">
     <object Name="WoodFloor"></object>
+    <object Name="Merchant Wine Vase"></object>
   </cell>
   <cell X="29" Y="2">
     <object Name="WoodFloor"></object>
+    <object Name="Merchant Wine Vase"></object>
   </cell>
   <cell X="30" Y="2">
     <object Name="WoodFloor"></object>
+    <object Name="Merchant Cider Vase"></object>
   </cell>
   <cell X="31" Y="2">
     <object Name="WoodFloor"></object>
@@ -435,6 +633,7 @@
   </cell>
   <cell X="33" Y="2">
     <object Name="WoodFloor"></object>
+    <object Name="Wood-Carved Table"></object>
   </cell>
   <cell X="34" Y="2">
     <object Name="Floor"></object>
@@ -444,6 +643,7 @@
   </cell>
   <cell X="36" Y="2">
     <object Name="Floor"></object>
+    <object Name="Torchpost"></object>
   </cell>
   <cell X="37" Y="2">
     <object Name="Floor"></object>
@@ -471,6 +671,7 @@
   </cell>
   <cell X="45" Y="2">
     <object Name="Floor"></object>
+    <object Name="Clump of Grave Moss"></object>
   </cell>
   <cell X="46" Y="2">
     <object Name="Floor"></object>
@@ -486,6 +687,7 @@
   </cell>
   <cell X="50" Y="2">
     <object Name="Floor"></object>
+    <object Name="Torchpost"></object>
   </cell>
   <cell X="51" Y="2">
     <object Name="Floor"></object>
@@ -516,6 +718,7 @@
   </cell>
   <cell X="60" Y="2">
     <object Name="Floor"></object>
+    <object Name="Torchpost"></object>
   </cell>
   <cell X="61" Y="2">
     <object Name="Floor"></object>
@@ -564,6 +767,7 @@
   </cell>
   <cell X="76" Y="2">
     <object Name="Floor"></object>
+    <object Name="Torchpost"></object>
   </cell>
   <cell X="77" Y="2">
     <object Name="Floor"></object>
@@ -571,8 +775,13 @@
   <cell X="78" Y="2">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
-  <cell X="79" Y="2"></cell>
-  <cell X="0" Y="3"></cell>
+  <cell X="79" Y="2">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="0" Y="3">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="1" Y="3">
     <object Name="CrysteelPlatedWall"></object>
     <object Name="Floor"></object>
@@ -654,6 +863,7 @@
   </cell>
   <cell X="26" Y="3">
     <object Name="WoodFloor"></object>
+    <object Name="Wood-Carved Table"></object>
   </cell>
   <cell X="27" Y="3">
     <object Name="WoodFloor"></object>
@@ -677,7 +887,7 @@
     <object Name="WoodFloor"></object>
   </cell>
   <cell X="34" Y="3">
-    <object Name="Floor"></object>
+    <object Name="BarathrumiteRobot"></object>
   </cell>
   <cell X="35" Y="3">
     <object Name="Floor"></object>
@@ -738,6 +948,7 @@
   </cell>
   <cell X="54" Y="3">
     <object Name="Floor"></object>
+    <object Name="Clump of Grave Moss"></object>
   </cell>
   <cell X="55" Y="3">
     <object Name="Floor"></object>
@@ -811,14 +1022,20 @@
   <cell X="78" Y="3">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
-  <cell X="79" Y="3"></cell>
-  <cell X="0" Y="4"></cell>
+  <cell X="79" Y="3">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="0" Y="4">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="1" Y="4">
     <object Name="CrysteelPlatedWall"></object>
     <object Name="Floor"></object>
   </cell>
   <cell X="2" Y="4">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="3" Y="4">
     <object Name="Floor"></object>
@@ -899,24 +1116,31 @@
   </cell>
   <cell X="26" Y="4">
     <object Name="WoodFloor"></object>
+    <object Name="Wood-Carved Table"></object>
   </cell>
   <cell X="27" Y="4">
     <object Name="WoodFloor"></object>
+    <object Name="Wood-Carved Table"></object>
   </cell>
   <cell X="28" Y="4">
     <object Name="WoodFloor"></object>
+    <object Name="Wood-Carved Table"></object>
   </cell>
   <cell X="29" Y="4">
     <object Name="WoodFloor"></object>
+    <object Name="Wood-Carved Table"></object>
   </cell>
   <cell X="30" Y="4">
     <object Name="WoodFloor"></object>
+    <object Name="Wood-Carved Table"></object>
   </cell>
   <cell X="31" Y="4">
     <object Name="WoodFloor"></object>
+    <object Name="Wood-Carved Table"></object>
   </cell>
   <cell X="32" Y="4">
     <object Name="WoodFloor"></object>
+    <object Name="Wood-Carved Table"></object>
   </cell>
   <cell X="33" Y="4">
     <object Name="WoodFloor"></object>
@@ -924,6 +1148,7 @@
     <object Name="WoodFloor"></object>
     <object Name="WoodFloor"></object>
     <object Name="WoodFloor"></object>
+    <object Name="Wood-Carved Table"></object>
   </cell>
   <cell X="34" Y="4">
     <object Name="Floor"></object>
@@ -1060,8 +1285,13 @@
   <cell X="78" Y="4">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
-  <cell X="79" Y="4"></cell>
-  <cell X="0" Y="5"></cell>
+  <cell X="79" Y="4">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="0" Y="5">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="1" Y="5">
     <object Name="CrysteelPlatedWall"></object>
     <object Name="Floor"></object>
@@ -1181,6 +1411,7 @@
   </cell>
   <cell X="38" Y="5">
     <object Name="Floor"></object>
+    <object Name="Clump of Grave Moss"></object>
   </cell>
   <cell X="39" Y="5">
     <object Name="Floor"></object>
@@ -1304,14 +1535,20 @@
   <cell X="78" Y="5">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
-  <cell X="79" Y="5"></cell>
-  <cell X="0" Y="6"></cell>
+  <cell X="79" Y="5">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="0" Y="6">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="1" Y="6">
     <object Name="CrysteelPlatedWall"></object>
     <object Name="Floor"></object>
   </cell>
   <cell X="2" Y="6">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="3" Y="6">
     <object Name="Floor"></object>
@@ -1402,6 +1639,7 @@
   </cell>
   <cell X="32" Y="6">
     <object Name="Floor"></object>
+    <object Name="Clump of Grave Moss"></object>
   </cell>
   <cell X="33" Y="6">
     <object Name="Floor"></object>
@@ -1551,9 +1789,15 @@
   </cell>
   <cell X="78" Y="6">
     <object Name="CrysteelPlatedWall"></object>
+    <object Name="Floor"></object>
   </cell>
-  <cell X="79" Y="6"></cell>
-  <cell X="0" Y="7"></cell>
+  <cell X="79" Y="6">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="0" Y="7">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="1" Y="7">
     <object Name="CrysteelPlatedWall"></object>
     <object Name="Floor"></object>
@@ -1814,15 +2058,23 @@
   </cell>
   <cell X="78" Y="7">
     <object Name="CrysteelPlatedWall"></object>
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
   </cell>
-  <cell X="79" Y="7"></cell>
-  <cell X="0" Y="8"></cell>
+  <cell X="79" Y="7">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="0" Y="8">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="1" Y="8">
     <object Name="CrysteelPlatedWall"></object>
     <object Name="Floor"></object>
   </cell>
   <cell X="2" Y="8">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="3" Y="8">
     <object Name="Floor"></object>
@@ -1961,6 +2213,7 @@
   </cell>
   <cell X="46" Y="8">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="47" Y="8">
     <object Name="Floor"></object>
@@ -1971,7 +2224,9 @@
   <cell X="49" Y="8">
     <object Name="Floor"></object>
   </cell>
-  <cell X="50" Y="8"></cell>
+  <cell X="50" Y="8">
+    <object Name="Bloodsplatter"></object>
+  </cell>
   <cell X="51" Y="8">
     <object Name="Floor"></object>
   </cell>
@@ -2022,10 +2277,11 @@
     <object Name="Floor"></object>
   </cell>
   <cell X="67" Y="8">
-    <object Name="Floor"></object>
+    <object Name="Bloodsplatter"></object>
   </cell>
   <cell X="68" Y="8">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="69" Y="8">
     <object Name="WoodFence"></object>
@@ -2061,9 +2317,14 @@
   </cell>
   <cell X="78" Y="8">
     <object Name="CrysteelPlatedWall"></object>
+    <object Name="Floor"></object>
   </cell>
-  <cell X="79" Y="8"></cell>
-  <cell X="0" Y="9"></cell>
+  <cell X="79" Y="8">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="0" Y="9">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="1" Y="9">
     <object Name="CrysteelPlatedWall"></object>
     <object Name="Floor"></object>
@@ -2202,9 +2463,10 @@
   </cell>
   <cell X="45" Y="9">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="46" Y="9">
-    <object Name="Floor"></object>
+    <object Name="Bloodsplatter"></object>
   </cell>
   <cell X="47" Y="9">
     <object Name="Floor"></object>
@@ -2275,6 +2537,7 @@
   </cell>
   <cell X="69" Y="9">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="70" Y="9">
     <object Name="WoodFence"></object>
@@ -2302,15 +2565,22 @@
   <cell X="77" Y="9"></cell>
   <cell X="78" Y="9">
     <object Name="CrysteelPlatedWall"></object>
+    <object Name="Floor"></object>
   </cell>
-  <cell X="79" Y="9"></cell>
-  <cell X="0" Y="10"></cell>
+  <cell X="79" Y="9">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="0" Y="10">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="1" Y="10">
     <object Name="CrysteelPlatedWall"></object>
     <object Name="Floor"></object>
   </cell>
   <cell X="2" Y="10">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="3" Y="10">
     <object Name="Floor"></object>
@@ -2427,6 +2697,7 @@
   </cell>
   <cell X="37" Y="10">
     <object Name="Floor"></object>
+    <object Name="Clump of Grave Moss"></object>
   </cell>
   <cell X="38" Y="10">
     <object Name="Floor"></object>
@@ -2451,6 +2722,7 @@
   </cell>
   <cell X="44" Y="10">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="45" Y="10">
     <object Name="Floor"></object>
@@ -2530,6 +2802,7 @@
   </cell>
   <cell X="70" Y="10">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="71" Y="10">
     <object Name="WoodFence"></object>
@@ -2550,17 +2823,25 @@
   </cell>
   <cell X="76" Y="10">
     <object Name="Floor"></object>
+    <object Name="Torchpost"></object>
   </cell>
   <cell X="77" Y="10">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
   <cell X="78" Y="10">
     <object Name="CrysteelPlatedWall"></object>
+    <object Name="Floor"></object>
   </cell>
-  <cell X="79" Y="10"></cell>
-  <cell X="0" Y="11"></cell>
+  <cell X="79" Y="10">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="0" Y="11">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="1" Y="11">
     <object Name="CrysteelPlatedWall"></object>
+    <object Name="Floor"></object>
   </cell>
   <cell X="2" Y="11">
     <object Name="Floor"></object>
@@ -2583,6 +2864,7 @@
   </cell>
   <cell X="8" Y="11">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="9" Y="11">
     <object Name="Floor"></object>
@@ -2599,6 +2881,7 @@
   </cell>
   <cell X="13" Y="11">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="14" Y="11">
     <object Name="Floor"></object>
@@ -2618,6 +2901,7 @@
   </cell>
   <cell X="19" Y="11">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="20" Y="11">
     <object Name="Floor"></object>
@@ -2627,6 +2911,7 @@
   </cell>
   <cell X="22" Y="11">
     <object Name="Floor"></object>
+    <object Name="Clump of Grave Moss"></object>
   </cell>
   <cell X="23" Y="11">
     <object Name="Floor"></object>
@@ -2728,7 +3013,7 @@
     <object Name="Floor"></object>
   </cell>
   <cell X="55" Y="11">
-    <object Name="Floor"></object>
+    <object Name="Bloodsplatter"></object>
   </cell>
   <cell X="56" Y="11">
     <object Name="Floor"></object>
@@ -2801,14 +3086,22 @@
     <object Name="CrysteelPlatedWall"></object>
     <object Name="Floor"></object>
   </cell>
-  <cell X="78" Y="11"></cell>
-  <cell X="79" Y="11"></cell>
-  <cell X="0" Y="12"></cell>
+  <cell X="78" Y="11">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="79" Y="11">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="0" Y="12">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="1" Y="12">
     <object Name="CrysteelPlatedWall"></object>
+    <object Name="Floor"></object>
   </cell>
   <cell X="2" Y="12">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="3" Y="12">
     <object Name="Floor"></object>
@@ -2876,6 +3169,7 @@
   </cell>
   <cell X="24" Y="12">
     <object Name="Floor"></object>
+    <object Name="Clump of Grave Moss"></object>
   </cell>
   <cell X="25" Y="12">
     <object Name="Floor"></object>
@@ -2943,6 +3237,7 @@
   </cell>
   <cell X="45" Y="12">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="46" Y="12">
     <object Name="Floor"></object>
@@ -2994,7 +3289,7 @@
     <object Name="Floor"></object>
   </cell>
   <cell X="62" Y="12">
-    <object Name="Floor"></object>
+    <object Name="Bloodsplatter"></object>
   </cell>
   <cell X="63" Y="12">
     <object Name="Floor"></object>
@@ -3013,6 +3308,7 @@
   </cell>
   <cell X="68" Y="12">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="69" Y="12">
     <object Name="Floor"></object>
@@ -3044,9 +3340,16 @@
     <object Name="CrysteelPlatedWall"></object>
     <object Name="Floor"></object>
   </cell>
-  <cell X="78" Y="12"></cell>
-  <cell X="79" Y="12"></cell>
-  <cell X="0" Y="13"></cell>
+  <cell X="78" Y="12">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="79" Y="12">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="0" Y="13">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
   <cell X="1" Y="13">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
@@ -3118,6 +3421,7 @@
   </cell>
   <cell X="21" Y="13">
     <object Name="Floor"></object>
+    <object Name="Clump of Grave Moss"></object>
   </cell>
   <cell X="22" Y="13">
     <object Name="Floor"></object>
@@ -3220,6 +3524,7 @@
   </cell>
   <cell X="54" Y="13">
     <object Name="Floor"></object>
+    <object Name="Bloodsplatter"></object>
   </cell>
   <cell X="55" Y="13">
     <object Name="Floor"></object>
@@ -3229,6 +3534,7 @@
   </cell>
   <cell X="57" Y="13">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="58" Y="13">
     <object Name="Floor"></object>
@@ -3294,13 +3600,20 @@
     <object Name="CrysteelPlatedWall"></object>
   </cell>
   <cell X="78" Y="13"></cell>
-  <cell X="79" Y="13"></cell>
-  <cell X="0" Y="14"></cell>
+  <cell X="79" Y="13">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="0" Y="14">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
   <cell X="1" Y="14">
     <object Name="CrysteelPlatedWall"></object>
+    <object Name="Floor"></object>
   </cell>
   <cell X="2" Y="14">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="3" Y="14">
     <object Name="Floor"></object>
@@ -3437,6 +3750,7 @@
   </cell>
   <cell X="45" Y="14">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="46" Y="14">
     <object Name="Floor"></object>
@@ -3507,6 +3821,7 @@
   </cell>
   <cell X="68" Y="14">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="69" Y="14">
     <object Name="Floor"></object>
@@ -3539,11 +3854,19 @@
     <object Name="CrysteelPlatedWall"></object>
     <object Name="Floor"></object>
   </cell>
-  <cell X="78" Y="14"></cell>
-  <cell X="79" Y="14"></cell>
-  <cell X="0" Y="15"></cell>
+  <cell X="78" Y="14">
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="79" Y="14">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="0" Y="15">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="1" Y="15">
     <object Name="CrysteelPlatedWall"></object>
+    <object Name="Floor"></object>
   </cell>
   <cell X="2" Y="15">
     <object Name="Floor"></object>
@@ -3556,6 +3879,7 @@
   </cell>
   <cell X="5" Y="15">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="6" Y="15">
     <object Name="Floor"></object>
@@ -3565,6 +3889,7 @@
   </cell>
   <cell X="8" Y="15">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="9" Y="15">
     <object Name="Floor"></object>
@@ -3574,6 +3899,7 @@
   </cell>
   <cell X="11" Y="15">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="12" Y="15">
     <object Name="Floor"></object>
@@ -3583,6 +3909,7 @@
   </cell>
   <cell X="14" Y="15">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="15" Y="15">
     <object Name="Floor"></object>
@@ -3592,6 +3919,7 @@
   </cell>
   <cell X="17" Y="15">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="18" Y="15">
     <object Name="Floor"></object>
@@ -3776,12 +4104,23 @@
   <cell X="77" Y="15">
     <object Name="CrysteelPlatedWall"></object>
     <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
   </cell>
-  <cell X="78" Y="15"></cell>
-  <cell X="79" Y="15"></cell>
-  <cell X="0" Y="16"></cell>
+  <cell X="78" Y="15">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="79" Y="15">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="0" Y="16">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
   <cell X="1" Y="16">
     <object Name="CrysteelPlatedWall"></object>
+    <object Name="Floor"></object>
   </cell>
   <cell X="2" Y="16">
     <object Name="CrysteelPlatedWall"></object>
@@ -3851,6 +4190,7 @@
   </cell>
   <cell X="23" Y="16">
     <object Name="CrysteelPlatedWall"></object>
+    <object Name="Floor"></object>
   </cell>
   <cell X="24" Y="16">
     <object Name="CrysteelPlatedWall"></object>
@@ -3942,7 +4282,9 @@
     <object Name="Human Corpse"></object>
     <object Name="Floor"></object>
   </cell>
-  <cell X="52" Y="16"></cell>
+  <cell X="52" Y="16">
+    <object Name="Bloodsplatter"></object>
+  </cell>
   <cell X="53" Y="16">
     <object Name="Floor"></object>
   </cell>
@@ -3980,7 +4322,9 @@
     <object Name="Floor"></object>
   </cell>
   <cell X="65" Y="16">
-    <object Name="Floor"></object>
+    <object Name="Bloodsplatter"></object>
+    <object Name="Bloodsplatter"></object>
+    <object Name="Bloodsplatter"></object>
   </cell>
   <cell X="66" Y="16">
     <object Name="Floor"></object>
@@ -3999,6 +4343,7 @@
   </cell>
   <cell X="71" Y="16">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="72" Y="16">
     <object Name="WoodFence"></object>
@@ -4020,36 +4365,88 @@
   <cell X="77" Y="16">
     <object Name="CrysteelPlatedWall"></object>
     <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
   </cell>
-  <cell X="78" Y="16"></cell>
-  <cell X="79" Y="16"></cell>
-  <cell X="0" Y="17"></cell>
-  <cell X="1" Y="17"></cell>
-  <cell X="2" Y="17"></cell>
-  <cell X="3" Y="17"></cell>
-  <cell X="4" Y="17"></cell>
-  <cell X="5" Y="17"></cell>
-  <cell X="6" Y="17"></cell>
-  <cell X="7" Y="17"></cell>
-  <cell X="8" Y="17"></cell>
-  <cell X="9" Y="17"></cell>
-  <cell X="10" Y="17"></cell>
-  <cell X="11" Y="17"></cell>
-  <cell X="12" Y="17"></cell>
-  <cell X="13" Y="17"></cell>
-  <cell X="14" Y="17"></cell>
-  <cell X="15" Y="17"></cell>
-  <cell X="16" Y="17"></cell>
-  <cell X="17" Y="17"></cell>
-  <cell X="18" Y="17"></cell>
-  <cell X="19" Y="17"></cell>
+  <cell X="78" Y="16">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="79" Y="16">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="0" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="1" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="2" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="3" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="4" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="5" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="6" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="7" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="8" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="9" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="10" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="11" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="12" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="13" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="14" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="15" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="16" Y="17">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="17" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="18" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="19" Y="17">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="20" Y="17">
     <object Name="Grave Moss"></object>
+    <object Name="Floor"></object>
   </cell>
-  <cell X="21" Y="17"></cell>
-  <cell X="22" Y="17"></cell>
+  <cell X="21" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="22" Y="17">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="23" Y="17">
     <object Name="Grave Moss"></object>
+    <object Name="Floor"></object>
   </cell>
   <cell X="24" Y="17">
     <object Name="Grave Moss"></object>
@@ -4087,8 +4484,12 @@
   <cell X="34" Y="17">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
-  <cell X="35" Y="17"></cell>
-  <cell X="36" Y="17"></cell>
+  <cell X="35" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="36" Y="17">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="37" Y="17">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
@@ -4115,6 +4516,7 @@
   </cell>
   <cell X="44" Y="17">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="45" Y="17">
     <object Name="Floor"></object>
@@ -4172,6 +4574,7 @@
   </cell>
   <cell X="63" Y="17">
     <object Name="Floor"></object>
+    <object Name="Bloodsplatter"></object>
   </cell>
   <cell X="64" Y="17">
     <object Name="Floor"></object>
@@ -4193,6 +4596,7 @@
   </cell>
   <cell X="70" Y="17">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="71" Y="17">
     <object Name="WoodFence"></object>
@@ -4216,40 +4620,95 @@
   </cell>
   <cell X="77" Y="17">
     <object Name="CrysteelPlatedWall"></object>
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
   </cell>
-  <cell X="78" Y="17"></cell>
-  <cell X="79" Y="17"></cell>
-  <cell X="0" Y="18"></cell>
-  <cell X="1" Y="18"></cell>
-  <cell X="2" Y="18"></cell>
-  <cell X="3" Y="18"></cell>
-  <cell X="4" Y="18"></cell>
-  <cell X="5" Y="18"></cell>
-  <cell X="6" Y="18"></cell>
-  <cell X="7" Y="18"></cell>
-  <cell X="8" Y="18"></cell>
-  <cell X="9" Y="18"></cell>
-  <cell X="10" Y="18"></cell>
-  <cell X="11" Y="18"></cell>
-  <cell X="12" Y="18"></cell>
-  <cell X="13" Y="18"></cell>
-  <cell X="14" Y="18"></cell>
-  <cell X="15" Y="18"></cell>
-  <cell X="16" Y="18"></cell>
-  <cell X="17" Y="18"></cell>
+  <cell X="78" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="79" Y="17">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="0" Y="18">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="1" Y="18">
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="2" Y="18">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="3" Y="18">
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="4" Y="18">
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="5" Y="18">
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="6" Y="18">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="7" Y="18">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="8" Y="18">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="9" Y="18">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="10" Y="18">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="11" Y="18">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="12" Y="18">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="13" Y="18">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="14" Y="18">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="15" Y="18">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="16" Y="18">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="17" Y="18">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="18" Y="18">
     <object Name="Grave Moss"></object>
+    <object Name="Floor"></object>
   </cell>
-  <cell X="19" Y="18"></cell>
+  <cell X="19" Y="18">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="20" Y="18">
     <object Name="Grave Moss"></object>
+    <object Name="Floor"></object>
   </cell>
-  <cell X="21" Y="18"></cell>
+  <cell X="21" Y="18">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="22" Y="18">
     <object Name="Grave Moss"></object>
+    <object Name="Floor"></object>
   </cell>
-  <cell X="23" Y="18"></cell>
-  <cell X="24" Y="18"></cell>
+  <cell X="23" Y="18">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="24" Y="18">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="25" Y="18">
     <object Name="Grave Moss"></object>
     <object Name="Floor"></object>
@@ -4285,8 +4744,12 @@
     <object Name="Grave Moss"></object>
     <object Name="Grave Moss"></object>
   </cell>
-  <cell X="35" Y="18"></cell>
-  <cell X="36" Y="18"></cell>
+  <cell X="35" Y="18">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="36" Y="18">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="37" Y="18">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
@@ -4316,6 +4779,7 @@
   </cell>
   <cell X="45" Y="18">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="46" Y="18">
     <object Name="Floor"></object>
@@ -4388,6 +4852,7 @@
   </cell>
   <cell X="69" Y="18">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="70" Y="18">
     <object Name="WoodFence"></object>
@@ -4414,41 +4879,102 @@
   </cell>
   <cell X="77" Y="18">
     <object Name="CrysteelPlatedWall"></object>
+    <object Name="Floor"></object>
   </cell>
-  <cell X="78" Y="18"></cell>
-  <cell X="79" Y="18"></cell>
-  <cell X="0" Y="19"></cell>
-  <cell X="1" Y="19"></cell>
-  <cell X="2" Y="19"></cell>
-  <cell X="3" Y="19"></cell>
-  <cell X="4" Y="19"></cell>
-  <cell X="5" Y="19"></cell>
-  <cell X="6" Y="19"></cell>
-  <cell X="7" Y="19"></cell>
-  <cell X="8" Y="19"></cell>
-  <cell X="9" Y="19"></cell>
-  <cell X="10" Y="19"></cell>
-  <cell X="11" Y="19"></cell>
-  <cell X="12" Y="19"></cell>
-  <cell X="13" Y="19"></cell>
-  <cell X="14" Y="19"></cell>
-  <cell X="15" Y="19"></cell>
-  <cell X="16" Y="19"></cell>
-  <cell X="17" Y="19"></cell>
-  <cell X="18" Y="19"></cell>
-  <cell X="19" Y="19"></cell>
+  <cell X="78" Y="18">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="79" Y="18">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="0" Y="19">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="1" Y="19">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="2" Y="19">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="3" Y="19">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="4" Y="19">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="5" Y="19">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="6" Y="19">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="7" Y="19">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="8" Y="19">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="9" Y="19">
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="10" Y="19">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="11" Y="19">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="12" Y="19">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="13" Y="19">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="14" Y="19">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="15" Y="19">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="16" Y="19">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="17" Y="19">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="18" Y="19">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="19" Y="19">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
   <cell X="20" Y="19">
     <object Name="Grave Moss"></object>
+    <object Name="Floor"></object>
   </cell>
-  <cell X="21" Y="19"></cell>
-  <cell X="22" Y="19"></cell>
+  <cell X="21" Y="19">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="22" Y="19">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="23" Y="19">
     <object Name="Grave Moss"></object>
+    <object Name="Floor"></object>
   </cell>
   <cell X="24" Y="19">
     <object Name="Grave Moss"></object>
+    <object Name="Floor"></object>
   </cell>
-  <cell X="25" Y="19"></cell>
+  <cell X="25" Y="19">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="26" Y="19">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
@@ -4472,9 +4998,15 @@
   <cell X="33" Y="19">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
-  <cell X="34" Y="19"></cell>
-  <cell X="35" Y="19"></cell>
-  <cell X="36" Y="19"></cell>
+  <cell X="34" Y="19">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="35" Y="19">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="36" Y="19">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="37" Y="19">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
@@ -4508,6 +5040,7 @@
   </cell>
   <cell X="46" Y="19">
     <object Name="Floor"></object>
+    <object Name="Chiliad Torchpost"></object>
   </cell>
   <cell X="47" Y="19">
     <object Name="Floor"></object>
@@ -4604,37 +5137,99 @@
   </cell>
   <cell X="77" Y="19">
     <object Name="CrysteelPlatedWall"></object>
+    <object Name="Floor"></object>
   </cell>
-  <cell X="78" Y="19"></cell>
-  <cell X="79" Y="19"></cell>
-  <cell X="0" Y="20"></cell>
-  <cell X="1" Y="20"></cell>
-  <cell X="2" Y="20"></cell>
-  <cell X="3" Y="20"></cell>
-  <cell X="4" Y="20"></cell>
+  <cell X="78" Y="19">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="79" Y="19">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="0" Y="20">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="1" Y="20">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="2" Y="20">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="3" Y="20">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="4" Y="20">
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
   <cell X="5" Y="20"></cell>
-  <cell X="6" Y="20"></cell>
-  <cell X="7" Y="20"></cell>
-  <cell X="8" Y="20"></cell>
-  <cell X="9" Y="20"></cell>
-  <cell X="10" Y="20"></cell>
-  <cell X="11" Y="20"></cell>
-  <cell X="12" Y="20"></cell>
-  <cell X="13" Y="20"></cell>
-  <cell X="14" Y="20"></cell>
-  <cell X="15" Y="20"></cell>
-  <cell X="16" Y="20"></cell>
-  <cell X="17" Y="20"></cell>
-  <cell X="18" Y="20"></cell>
-  <cell X="19" Y="20"></cell>
-  <cell X="20" Y="20"></cell>
-  <cell X="21" Y="20"></cell>
-  <cell X="22" Y="20"></cell>
-  <cell X="23" Y="20"></cell>
-  <cell X="24" Y="20"></cell>
+  <cell X="6" Y="20">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="7" Y="20">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="8" Y="20">
+    <object Name="Shimscale Mangrove Tree"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="9" Y="20">
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="10" Y="20">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="11" Y="20">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="12" Y="20">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="13" Y="20">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="14" Y="20">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="15" Y="20">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="16" Y="20">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="17" Y="20">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="18" Y="20">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="19" Y="20">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="20" Y="20">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="21" Y="20">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="22" Y="20">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="23" Y="20">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="24" Y="20">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="25" Y="20">
     <object Name="Grave Moss"></object>
     <object Name="Grave Moss"></object>
+    <object Name="Floor"></object>
   </cell>
   <cell X="26" Y="20">
     <object Name="CrysteelPlatedWall"></object>
@@ -4664,9 +5259,14 @@
   </cell>
   <cell X="34" Y="20">
     <object Name="Grave Moss"></object>
+    <object Name="Floor"></object>
   </cell>
-  <cell X="35" Y="20"></cell>
-  <cell X="36" Y="20"></cell>
+  <cell X="35" Y="20">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="36" Y="20">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="37" Y="20">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
@@ -4806,41 +5406,104 @@
   </cell>
   <cell X="76" Y="20">
     <object Name="Floor"></object>
+    <object Name="Torchpost"></object>
   </cell>
   <cell X="77" Y="20">
     <object Name="CrysteelPlatedWall"></object>
     <object Name="Floor"></object>
   </cell>
-  <cell X="78" Y="20"></cell>
-  <cell X="79" Y="20"></cell>
-  <cell X="0" Y="21"></cell>
-  <cell X="1" Y="21"></cell>
-  <cell X="2" Y="21"></cell>
-  <cell X="3" Y="21"></cell>
-  <cell X="4" Y="21"></cell>
-  <cell X="5" Y="21"></cell>
-  <cell X="6" Y="21"></cell>
-  <cell X="7" Y="21"></cell>
-  <cell X="8" Y="21"></cell>
-  <cell X="9" Y="21"></cell>
-  <cell X="10" Y="21"></cell>
-  <cell X="11" Y="21"></cell>
-  <cell X="12" Y="21"></cell>
-  <cell X="13" Y="21"></cell>
-  <cell X="14" Y="21"></cell>
-  <cell X="15" Y="21"></cell>
-  <cell X="16" Y="21"></cell>
-  <cell X="17" Y="21"></cell>
-  <cell X="18" Y="21"></cell>
-  <cell X="19" Y="21"></cell>
-  <cell X="20" Y="21"></cell>
-  <cell X="21" Y="21"></cell>
-  <cell X="22" Y="21"></cell>
-  <cell X="23" Y="21"></cell>
-  <cell X="24" Y="21"></cell>
-  <cell X="25" Y="21"></cell>
+  <cell X="78" Y="20">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="79" Y="20">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="0" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="1" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="2" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="3" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="4" Y="21">
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="5" Y="21">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="6" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="7" Y="21">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="8" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="9" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="10" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="11" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="12" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="13" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="14" Y="21">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="15" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="16" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="17" Y="21">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="18" Y="21">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="19" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="20" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="21" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="22" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="23" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="24" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="25" Y="21">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="26" Y="21">
     <object Name="EaterStatue Gold"></object>
+    <object Name="Floor"></object>
   </cell>
   <cell X="27" Y="21">
     <object Name="CrysteelPlatedWall"></object>
@@ -4867,14 +5530,21 @@
   <cell X="33" Y="21">
     <object Name="EaterStatue Gold"></object>
   </cell>
-  <cell X="34" Y="21"></cell>
-  <cell X="35" Y="21"></cell>
-  <cell X="36" Y="21"></cell>
+  <cell X="34" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="35" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="36" Y="21">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="37" Y="21">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
   <cell X="38" Y="21">
     <object Name="Floor"></object>
+    <object Name="Torchpost"></object>
   </cell>
   <cell X="39" Y="21">
     <object Name="Floor"></object>
@@ -5001,35 +5671,100 @@
     <object Name="CrysteelPlatedWall"></object>
     <object Name="Floor"></object>
   </cell>
-  <cell X="78" Y="21"></cell>
-  <cell X="79" Y="21"></cell>
-  <cell X="0" Y="22"></cell>
-  <cell X="1" Y="22"></cell>
-  <cell X="2" Y="22"></cell>
-  <cell X="3" Y="22"></cell>
-  <cell X="4" Y="22"></cell>
-  <cell X="5" Y="22"></cell>
-  <cell X="6" Y="22"></cell>
-  <cell X="7" Y="22"></cell>
-  <cell X="8" Y="22"></cell>
-  <cell X="9" Y="22"></cell>
-  <cell X="10" Y="22"></cell>
-  <cell X="11" Y="22"></cell>
-  <cell X="12" Y="22"></cell>
-  <cell X="13" Y="22"></cell>
-  <cell X="14" Y="22"></cell>
-  <cell X="15" Y="22"></cell>
-  <cell X="16" Y="22"></cell>
-  <cell X="17" Y="22"></cell>
-  <cell X="18" Y="22"></cell>
-  <cell X="19" Y="22"></cell>
-  <cell X="20" Y="22"></cell>
-  <cell X="21" Y="22"></cell>
-  <cell X="22" Y="22"></cell>
-  <cell X="23" Y="22"></cell>
-  <cell X="24" Y="22"></cell>
-  <cell X="25" Y="22"></cell>
-  <cell X="26" Y="22"></cell>
+  <cell X="78" Y="21">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="79" Y="21">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="0" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="1" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="2" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="3" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="4" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="5" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="6" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="7" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="8" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="9" Y="22">
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="10" Y="22">
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="11" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="12" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="13" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="14" Y="22">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="15" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="16" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="17" Y="22">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="18" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="19" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="20" Y="22">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="21" Y="22">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="22" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="23" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="24" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="25" Y="22">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="26" Y="22">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
   <cell X="27" Y="22">
     <object Name="Chiliad Unlit Torchpost"></object>
     <object Name="Floor"></object>
@@ -5049,10 +5784,18 @@
   <cell X="32" Y="22">
     <object Name="Chiliad Unlit Torchpost"></object>
   </cell>
-  <cell X="33" Y="22"></cell>
-  <cell X="34" Y="22"></cell>
-  <cell X="35" Y="22"></cell>
-  <cell X="36" Y="22"></cell>
+  <cell X="33" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="34" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="35" Y="22">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="36" Y="22">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="37" Y="22">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
@@ -5178,45 +5921,134 @@
   <cell X="77" Y="22">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
-  <cell X="78" Y="22"></cell>
-  <cell X="79" Y="22"></cell>
-  <cell X="0" Y="23"></cell>
-  <cell X="1" Y="23"></cell>
-  <cell X="2" Y="23"></cell>
-  <cell X="3" Y="23"></cell>
-  <cell X="4" Y="23"></cell>
-  <cell X="5" Y="23"></cell>
-  <cell X="6" Y="23"></cell>
-  <cell X="7" Y="23"></cell>
-  <cell X="8" Y="23"></cell>
-  <cell X="9" Y="23"></cell>
-  <cell X="10" Y="23"></cell>
-  <cell X="11" Y="23"></cell>
-  <cell X="12" Y="23"></cell>
-  <cell X="13" Y="23"></cell>
-  <cell X="14" Y="23"></cell>
-  <cell X="15" Y="23"></cell>
-  <cell X="16" Y="23"></cell>
-  <cell X="17" Y="23"></cell>
-  <cell X="18" Y="23"></cell>
-  <cell X="19" Y="23"></cell>
-  <cell X="20" Y="23"></cell>
-  <cell X="21" Y="23"></cell>
-  <cell X="22" Y="23"></cell>
-  <cell X="23" Y="23"></cell>
-  <cell X="24" Y="23"></cell>
-  <cell X="25" Y="23"></cell>
-  <cell X="26" Y="23"></cell>
-  <cell X="27" Y="23"></cell>
-  <cell X="28" Y="23"></cell>
-  <cell X="29" Y="23"></cell>
-  <cell X="30" Y="23"></cell>
-  <cell X="31" Y="23"></cell>
-  <cell X="32" Y="23"></cell>
-  <cell X="33" Y="23"></cell>
-  <cell X="34" Y="23"></cell>
-  <cell X="35" Y="23"></cell>
-  <cell X="36" Y="23"></cell>
+  <cell X="78" Y="22">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="79" Y="22">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="0" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="1" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="2" Y="23">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="3" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="4" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="5" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="6" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="7" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="8" Y="23">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="9" Y="23">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="10" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="11" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="12" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="13" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="14" Y="23">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="15" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="16" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="17" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="18" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="19" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="20" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="21" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="22" Y="23">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="23" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="24" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="25" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="26" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="27" Y="23">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="28" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="29" Y="23">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="30" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="31" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="32" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="33" Y="23">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="34" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="35" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="36" Y="23">
+    <object Name="Floor"></object>
+  </cell>
   <cell X="37" Y="23">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
@@ -5342,86 +6174,267 @@
   <cell X="77" Y="23">
     <object Name="CrysteelPlatedWall"></object>
   </cell>
-  <cell X="78" Y="23"></cell>
-  <cell X="79" Y="23"></cell>
-  <cell X="0" Y="24"></cell>
-  <cell X="1" Y="24"></cell>
-  <cell X="2" Y="24"></cell>
-  <cell X="3" Y="24"></cell>
-  <cell X="4" Y="24"></cell>
-  <cell X="5" Y="24"></cell>
-  <cell X="6" Y="24"></cell>
-  <cell X="7" Y="24"></cell>
-  <cell X="8" Y="24"></cell>
-  <cell X="9" Y="24"></cell>
-  <cell X="10" Y="24"></cell>
-  <cell X="11" Y="24"></cell>
-  <cell X="12" Y="24"></cell>
-  <cell X="13" Y="24"></cell>
-  <cell X="14" Y="24"></cell>
-  <cell X="15" Y="24"></cell>
-  <cell X="16" Y="24"></cell>
-  <cell X="17" Y="24"></cell>
-  <cell X="18" Y="24"></cell>
-  <cell X="19" Y="24"></cell>
-  <cell X="20" Y="24"></cell>
-  <cell X="21" Y="24"></cell>
-  <cell X="22" Y="24"></cell>
-  <cell X="23" Y="24"></cell>
-  <cell X="24" Y="24"></cell>
-  <cell X="25" Y="24"></cell>
-  <cell X="26" Y="24"></cell>
-  <cell X="27" Y="24"></cell>
-  <cell X="28" Y="24"></cell>
-  <cell X="29" Y="24"></cell>
-  <cell X="30" Y="24"></cell>
-  <cell X="31" Y="24"></cell>
-  <cell X="32" Y="24"></cell>
-  <cell X="33" Y="24"></cell>
-  <cell X="34" Y="24"></cell>
-  <cell X="35" Y="24"></cell>
-  <cell X="36" Y="24"></cell>
-  <cell X="37" Y="24"></cell>
-  <cell X="38" Y="24"></cell>
-  <cell X="39" Y="24"></cell>
-  <cell X="40" Y="24"></cell>
-  <cell X="41" Y="24"></cell>
-  <cell X="42" Y="24"></cell>
-  <cell X="43" Y="24"></cell>
-  <cell X="44" Y="24"></cell>
-  <cell X="45" Y="24"></cell>
-  <cell X="46" Y="24"></cell>
-  <cell X="47" Y="24"></cell>
-  <cell X="48" Y="24"></cell>
-  <cell X="49" Y="24"></cell>
-  <cell X="50" Y="24"></cell>
-  <cell X="51" Y="24"></cell>
-  <cell X="52" Y="24"></cell>
-  <cell X="53" Y="24"></cell>
-  <cell X="54" Y="24"></cell>
-  <cell X="55" Y="24"></cell>
-  <cell X="56" Y="24"></cell>
-  <cell X="57" Y="24"></cell>
-  <cell X="58" Y="24"></cell>
-  <cell X="59" Y="24"></cell>
-  <cell X="60" Y="24"></cell>
-  <cell X="61" Y="24"></cell>
-  <cell X="62" Y="24"></cell>
-  <cell X="63" Y="24"></cell>
-  <cell X="64" Y="24"></cell>
-  <cell X="65" Y="24"></cell>
-  <cell X="66" Y="24"></cell>
-  <cell X="67" Y="24"></cell>
-  <cell X="68" Y="24"></cell>
-  <cell X="69" Y="24"></cell>
-  <cell X="70" Y="24"></cell>
-  <cell X="71" Y="24"></cell>
-  <cell X="72" Y="24"></cell>
-  <cell X="73" Y="24"></cell>
-  <cell X="74" Y="24"></cell>
-  <cell X="75" Y="24"></cell>
-  <cell X="76" Y="24"></cell>
-  <cell X="77" Y="24"></cell>
-  <cell X="78" Y="24"></cell>
-  <cell X="79" Y="24"></cell>
+  <cell X="78" Y="23">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="79" Y="23">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="0" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="1" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="2" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="3" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="4" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="5" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="6" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="7" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="8" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="9" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="10" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="11" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="12" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="13" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="14" Y="24">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="15" Y="24">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="16" Y="24">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="17" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="18" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="19" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="20" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="21" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="22" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="23" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="24" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="25" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="26" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="27" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="28" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="29" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="30" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="31" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="32" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="33" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="34" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="35" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="36" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="37" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="38" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="39" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="40" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="41" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="42" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="43" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="44" Y="24">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="45" Y="24">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="46" Y="24">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="47" Y="24">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="48" Y="24">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="49" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="50" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="51" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="52" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="53" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="54" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="55" Y="24">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="56" Y="24">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="57" Y="24">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="58" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="59" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="60" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="61" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="62" Y="24">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="63" Y="24">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="64" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="65" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="66" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="67" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="68" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="69" Y="24">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="70" Y="24">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="71" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="72" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="73" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="74" Y="24">
+    <object Name="Floor"></object>
+    <object Name="Shimscale Mangrove Tree"></object>
+  </cell>
+  <cell X="75" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="76" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="77" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="78" Y="24">
+    <object Name="Floor"></object>
+  </cell>
+  <cell X="79" Y="24">
+    <object Name="Floor"></object>
+  </cell>
 </Map>
