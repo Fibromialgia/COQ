@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map
+    Width="80"
+    Height="25">
+    <cell
+        X="34"
+        Y="6">
+    <object Name="The_LostArena"></object>
+    </cell>
+</Map>

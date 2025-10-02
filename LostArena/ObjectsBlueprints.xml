@@ -1,0 +1,13 @@
+<objects>
+  <object Name="The_LostArena" Inherits="Terrain">
+    <part Name="Render"
+    DisplayName="LostArena"
+    Tile="Terrain/celda.png"
+    ColorString="&amp;G^k"
+    DetailColor="r">
+    </part>
+    <part Name="Description" Short="A crysteel structure stands shinning in the jungle"></part>
+    <tag Name="NoBiomes" Value="1"></tag>
+    <tag Name="OverlayColor" Value="&amp;W"></tag>
+  </object>
+</objects>

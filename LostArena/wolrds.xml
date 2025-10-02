@@ -1,0 +1,22 @@
+<worlds>
+  <world Name="JoppaWorld" Load="Merge">
+    <cell Name="The_LostArena" Inherits="Jungle" 
+          ApplyTo="The_LostArena" 
+          Mutable="false" > <!--sets whether or not procgen functions here -->
+    
+      <zone Level="10" x="0-2" y="0-2" Name="outskirts, Joppa" NameContext="Joppa">
+        <builder Class="JoppaOutskirts"></builder>
+        <encounter Table="JoppaOutskirtsEncounters" Amount="minimum"></encounter>
+      </zone> <!-- this first part is borrowed from Joppa in this example -->
+
+      <zone Level="10" x="1" y="1" Name="somename" ProperName="true">
+        <map FileName="LostArena.rpm"></map> <!-- put this map file in your mod folder -->
+        <builder Class="Music" Track="MehmetsMorning" Chance="100"></builder>
+      </zone> 
+      
+      <!-- more zones such as underground could be added here -->
+
+    </cell>
+
+  </world>
+</worlds>

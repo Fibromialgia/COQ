@@ -1,0 +1,10 @@
+{
+    "id": "KillerOfBees_Lost Arena",
+    "title": "The Lost Arena",
+    "description": "The crysteel arena awaits. Adds the Lost Arena zone at JoppaWorld coordinates (34,6).",
+    "version": "1.0.0",
+    "author": "KillerOfBees",
+    "tags": "dunno really",
+    "previewImage": "Preview.png",
+    "Worlds": ["Worlds.xml"]
+}
