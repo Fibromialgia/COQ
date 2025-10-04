@@ -636,7 +636,7 @@
     <object Name="Wood-Carved Table"></object>
   </cell>
   <cell X="34" Y="2">
-    <object Name="Floor"></object>
+    <object Name="CustomBook"></object>
   </cell>
   <cell X="35" Y="2">
     <object Name="Floor"></object>

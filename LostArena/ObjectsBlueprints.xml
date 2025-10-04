@@ -1,7 +1,7 @@
 <objects>
   <object Name="The_LostArena" Inherits="Terrain">
     <part Name="Render"
-    DisplayName="LostArena"
+    DisplayName="Lost Arena"
     Tile="Terrain/celda.png"
     ColorString="&amp;G^k"
     DetailColor="r">
@@ -9,5 +9,18 @@
     <part Name="Description" Short="A crysteel structure stands shinning in the jungle"></part>
     <tag Name="NoBiomes" Value="1"></tag>
     <tag Name="OverlayColor" Value="&amp;W"></tag>
+  </object>
+  <object Name="CustomBook" Inherits="Bookshelf">
+    <part Name="Render" DisplayName="A mossy bookshelf" Tile="Items/sw_bookshelf1.bmp" DetailColor="W" ColorString="&amp;w" />
+    <part Name="Inventory" />
+    <part Name="Container" />
+        <inventoryobject Blueprint="ArenaBook1" />
+  </object>
+    <object Name="ArenaBook1" Inherits="Book">
+    <part Name="Render" DisplayName="{{{{W|The complete History of The Glorious Arena of The Exiled}}}}" ColorString="&amp;B" RenderString="=" RenderLayer="5" Tile="Items/sw_book2.bmp" TileColor="&amp;R" DetailColor="y" />
+    <part Name="Description" Short="" />
+    <part Name="Book" ID="ArenaBook1" />
+    <part Name="Commerce" Value="10" />
+    <tag Name="ExcludeFromDynamicEncounters" Value="*noinherit" />
   </object>
 </objects>
